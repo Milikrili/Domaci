@@ -1,0 +1,249 @@
+.wrapper{
+    background: rgb(102, 33, 33);
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 20px;
+}
+
+
+.header{
+    background-image:url(photo-1533912352517-92dd08116ea4.jpg);
+    height: 300px;
+    border-radius: 20px;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 10px;
+   
+}
+
+
+    img{
+    width: 130px;
+    height: 120px;
+    margin: 0 auto;
+    padding-top: 30px;
+    display: block;
+    
+    
+}
+
+.header h1{
+    text-align: center;
+    color: rgb(102, 33, 33);
+    font-family: 'Permanent Marker', cursive;
+}
+.header a{
+    text-decoration: none;
+    font-size: 18pt;
+    padding-left: 20px;
+    color: rgb(102, 33, 33);
+    font-family: 'Permanent Marker', cursive;
+    
+    
+    
+}
+.header a:hover{
+    color: rgb(255, 255, 8);
+}
+.about{
+    display: block;
+    background:white;
+    border-radius: 20px;
+    margin-left:8px;
+    margin-right:8px;
+    margin-bottom: 10px;
+    height:350px;
+    overflow: scroll;
+    font-family: 'Indie Flower', cursive;
+    
+}
+#right{
+    float: right;
+    padding-right: 20px;
+}
+#padding{
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+
+}
+.tabela{
+    background:white;
+    border-radius: 20px;
+    margin-left:8px;
+    margin-right:8px;
+    margin-bottom: 10px;
+    
+
+}
+.flex
+{
+    display: flex;
+    justify-content:center;
+    padding-top: 20px;
+   
+    
+   
+}
+.flex table{
+width: 90%;
+margin-bottom: 20px;
+
+
+}
+table,th,td{
+    border: 1px solid rgb(102, 33, 33);
+    border-collapse: collapse;
+    text-align: center;
+}
+th{
+    background: rgb(206, 206, 33);
+    color: rgb(102, 33, 33);
+    font-family: 'Permanent Marker', cursive;
+
+}
+td{
+    font-family: 'Indie Flower', cursive;
+}
+.plava{
+    background: rgb(4, 204, 204);
+}
+.font{
+    font-family: 'Permanent Marker', cursive; 
+}
+#red{
+    background: rgb(167, 70, 70);
+    color: white;
+}
+#boja{
+    background: rgb(12, 113, 121);
+    color: white;
+}
+.skill{
+    background:white;
+    border-radius: 20px;
+    margin-left:8px;
+    margin-right:8px;
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+}
+.proggres{
+    float: left;
+    padding-left: 20px;
+
+    
+}
+ progress{
+    width:75%;
+    box-shadow: 4px 5px 6px 3px rgb(65, 70, 68);
+}
+    
+    
+
+li{
+    font-family: 'Indie Flower', cursive;
+    font-size: 16pt;
+    
+}
+progress[value] {
+    -webkit-appearance: none;
+     
+     height: 20px;
+     
+  }
+  .media{
+    background:white;
+    border-radius: 20px;
+    margin-left:8px;
+    margin-right:8px;
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+  }
+  .radius{
+      border-radius: 30%;
+  }
+  .center{
+      display: flex;
+      justify-content:center;
+  }
+  .contact{
+    background:white;
+    border-radius: 20px;
+    margin-left:8px;
+    margin-right:8px;
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+    text-align: center;
+
+  }
+  input{
+      width:50%;
+      margin-bottom: 10px;
+      border-radius: 5px;
+      padding-left: 10px;
+      background: ivory;
+  }
+  .dugme{
+      display: flex;
+      justify-content: center;
+      
+
+  }
+  .dugme input{
+      width: 620px;
+      height: 40px;
+      background: rgb(102, 33, 33);
+      color: white;
+      font-size:large;
+      font-weight: bold;
+      
+      
+    }
+  .textarea{
+      display: flex;
+      justify-content:center;
+      margin-bottom: 10px;
+     
+  }
+  textarea{
+    border-radius: 5px;
+    padding-left: 10px;
+    background: ivory;
+  }
+  
+  .pozadina{
+    background:white;
+    border-radius: 20px;
+    margin-left:8px;
+    margin-right:8px;
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+  }
+  
+   .inline{
+      display: flex;
+       flex-direction: row;
+      justify-content: center;
+       
+      
+   }  
+      .inline img{
+      
+       width: 50px;
+       height: 50px;
+       
+   }
+      
+      
+  
+  
+
+
+
+  
+
+  
+
+
+
+
