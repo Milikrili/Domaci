@@ -232,8 +232,12 @@ progress[value] {
        width: 50px;
        height: 50px;
        
-   }
-      
+
+}
+.footer p{
+float:left;
+padding-right: 8px;
+}
       
   
   
